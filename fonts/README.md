@@ -1,0 +1,1 @@
+Font folder for holberton-smiling-school project
